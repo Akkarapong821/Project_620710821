@@ -29,8 +29,8 @@ class _MoccaState extends State<Mocca> {
     Size size = MediaQuery.of(context).size;
     return Scaffold(
       body: Container(
-        height: size.height,
-        width: size.height,
+        height: double.infinity,
+        width: double.infinity,
         child: Stack(
           children: [
             Container(
@@ -70,8 +70,8 @@ class _MoccaState extends State<Mocca> {
               top: 250,
               child: Container(
                 padding: EdgeInsets.all(40),
-                width: size.width,
-                height: size.height,
+                  width: size.width,
+                  height: size.height,
                 decoration: BoxDecoration(
                   color: Colors.black,
                   borderRadius: BorderRadius.only(

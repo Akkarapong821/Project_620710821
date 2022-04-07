@@ -29,8 +29,8 @@ class _EspressoState extends State<Espresso> {
     Size size = MediaQuery.of(context).size;
     return Scaffold(
       body: Container(
-        height: size.height,
-        width: size.height,
+        height: double.infinity,
+        width: double.infinity,
         child: Stack(
           children: [
             Container(

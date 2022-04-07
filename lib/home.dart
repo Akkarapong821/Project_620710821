@@ -10,8 +10,8 @@ class Home extends StatelessWidget {
         alignment: Alignment.center,
         children: [
           Container(
-            height: size.height,
-            width: size.height,
+            height: double.infinity,
+            width: double.infinity,
             child: Image.asset("assets/images/bg1.jpg", fit: BoxFit.cover),
           ),
           Container(
