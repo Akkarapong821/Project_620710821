@@ -32357,7 +32357,7 @@ p=M.c8(q,U.a5J("assets/images/bg1.jpg",C.bb),q,q,p,q,q,p)
 s=K.c1(b)
 r=K.c1(b).b
 r=H.a([s.b,P.b_(102,r.gn(r)>>>16&255,r.gn(r)>>>8&255,r.gn(r)&255)],t.bk)
-r=M.c8(C.G,U.a5J("images/coffee1.png",q),q,new S.c3(q,q,q,q,q,new T.mv(C.bu,C.h6,C.c8,r,q,q),C.w),q,q,new V.aO(48,48,48,48),q)
+r=M.c8(C.G,U.a5J("assets/images/coffee1.png",q),q,new S.c3(q,q,q,q,q,new T.mv(C.bu,C.h6,C.c8,r,q,q),C.w),q,q,new V.aO(48,48,48,48),q)
 s=K.dD(30)
 return M.rx(T.hL(C.G,H.a([p,r,T.iY(50,T.aY(N.pF(L.aT("\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e0b\u0e37\u0e49\u0e2d",A.bk(q,q,C.i,q,q,q,q,q,q,q,q,15,q,C.V,q,q,!0,q,q,q,q,q,q,q,q),q,q),new P.u(4290350163),new Y.Nn(b),new X.ch(s,C.p),q),60,150),q,q,q,q,q,q)],t.p),C.aD))}}
 Y.Nn.prototype={

@@ -27,7 +27,7 @@ class Home extends StatelessWidget {
                 ],
               ),
             ),
-            child: Image.asset('images/coffee1.png'),
+            child: Image.asset('assets/images/coffee1.png'),
           ),
           Positioned(
             bottom: 50,
