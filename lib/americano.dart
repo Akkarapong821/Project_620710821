@@ -63,7 +63,7 @@ class _AmericanoState extends State<Americano> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage("images/Americano.jpg"),
+                  image: AssetImage("assets/images/Americano.jpg"),
                 ),
               ),
             ),

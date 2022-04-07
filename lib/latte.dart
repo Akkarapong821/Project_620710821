@@ -62,7 +62,7 @@ class _LatteState extends State<Latte> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage("images/latte.jpeg"),
+                  image: AssetImage("assets/images/latte.jpeg"),
                 ),
               ),
             ),

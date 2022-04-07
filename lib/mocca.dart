@@ -62,7 +62,7 @@ class _MoccaState extends State<Mocca> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage("images/mocca.jpg"),
+                  image: AssetImage("assets/images/mocca.jpg"),
                 ),
               ),
             ),

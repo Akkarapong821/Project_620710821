@@ -62,7 +62,7 @@ class _EspressoState extends State<Espresso> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage("images/espresso.jpg"),
+                  image: AssetImage("assets/images/espresso.jpg"),
                 ),
               ),
             ),

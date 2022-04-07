@@ -62,7 +62,7 @@ class _CappuccinoState extends State<Cappuccino> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   fit: BoxFit.cover,
-                  image: AssetImage("images/cappuccino.jpg"),
+                  image: AssetImage("assets/images/cappuccino.jpg"),
                 ),
               ),
             ),

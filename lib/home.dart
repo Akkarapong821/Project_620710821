@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
           Container(
             height: size.height,
             width: size.height,
-            child: Image.asset("images/bg1.jpg", fit: BoxFit.cover),
+            child: Image.asset("assets/images/bg1.jpg", fit: BoxFit.cover),
           ),
           Container(
             padding: EdgeInsets.all(48),
